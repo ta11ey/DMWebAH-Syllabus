@@ -645,7 +645,7 @@
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - SQL I
 - Lesson Video:
-  - [Mongo I](https://vimeo.com/140831164) - 1 hour 41 minutes
+  - [SQL I](https://vimeo.com/album/4144340/video/187705552)
 - Before class:
   - SQL Bolt Tutorials 1-5, 13, 16-17(https://sqlbolt.com/))
 - Mini Project:
@@ -661,9 +661,13 @@
 
 #### <a name="day112"></a> Day 2 - SQL II
 - Lesson Video:
+<<<<<<< HEAD
+  - [SQL II](https://vimeo.com/album/4144340/video/187869904)
+=======
   - [Mongo II](https://vimeo.com/146151652) - 1 hour 20 minutes
 - Before class:
   - SQL Bolt Tutorials 6-12, 14-15, 18(https://sqlbolt.com/))
+>>>>>>> master
 - Mini Project:
   - [Intermediate Mini](https://github.com/DevMountain/intermediate-sql-queries)
 - Learning Objectives
@@ -675,6 +679,12 @@
 
 #### <a name="day113"></a> Day 3 -  Postgres I
 - Lesson Video:
+<<<<<<< HEAD
+  - [SQL III](https://vimeo.com/album/4144340/video/188030567)
+ - Mini Project:
+  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/PART-II-README.md)
+ - Learning Objectives
+=======
   - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
 - Before class:
   - Install [PostgresSQL](https://www.postgresql.org/)
@@ -685,6 +695,7 @@
 - Mini Project:
   - [Mini Massive](https://github.com/DevMountain/mini-sql-node-massive)
 - Learning Objectives
+>>>>>>> master
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
