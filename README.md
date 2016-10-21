@@ -645,7 +645,7 @@
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - MongoDB I
 - Lesson Video:
-  - [Mongo I](https://vimeo.com/140831164) - 1 hour 41 minutes
+  - [SQL I](https://vimeo.com/album/4144340/video/187705552)
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Mini Project:
@@ -661,7 +661,7 @@
 
 #### <a name="day112"></a> Day 2 - MongoDB II
 - Lesson Video:
-  - [Mongo II](https://vimeo.com/146151652) - 1 hour 20 minutes
+  - [SQL II](https://vimeo.com/album/4144340/video/187869904)
 - Mini Project:
   - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
@@ -674,7 +674,7 @@
 
 #### <a name="day113"></a> Day 3 -  MongoDB III
 - Lesson Video:
-  - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
+  - [SQL III](https://vimeo.com/album/4144340/video/188030567)
  - Mini Project:
   - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/PART-II-README.md)
  - Learning Objectives
