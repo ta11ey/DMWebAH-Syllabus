@@ -673,7 +673,7 @@
 - Project:
   - [Intermediate Queries](https://github.com/DevMountain/intermediate-sql-queries-afternoon) 
 
-#### <a name="day113"></a> Day 3 -  Postgress I
+#### <a name="day113"></a> Day 3 -  Postgres I
 - Lesson Video:
   - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
 - Before class:
@@ -682,9 +682,9 @@
   - Video Tutorial for installation [Here](https://www.youtube.com/watch?v=ghTksCsFBcI&ab_channel=ProgrammingKnowledge)
   - [Setting up a Postgres DB](https://www.youtube.com/watch?v=1wvDVBjNDys&ab_channel=EnterpriseDB)
   - [MassiveJS Docs](https://massive-js.readthedocs.io/en/latest/)
- - Mini Project:
+- Mini Project:
   - [Mini Massive](https://github.com/DevMountain/mini-sql-node-massive)
- - Learning Objectives
+- Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
