@@ -654,10 +654,10 @@
    - Understand how to write SQL queries to select records from a single table
    - Understand how to write SQL queries to create a table
    - Understand how to write SQL queries to create records for a single table
-- Note:
-  - You will want to get started on Day 2 when you finish this one.
 - Project:
   - [Simple Queries](https://github.com/DevMountain/simple-sql-queries-afternoon)
+- Note:
+  - You will want to get started on Day 2 when you finish this one.
 
 #### <a name="day112"></a> Day 2 - SQL II
 - Lesson Video:
