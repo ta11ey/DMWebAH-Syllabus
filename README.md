@@ -643,47 +643,53 @@
 - Additional Reading:
 
 ## <a name="week11"></a> Week 11
-#### <a name="day111"></a> Day 1 - MongoDB I
+#### <a name="day111"></a> Day 1 - SQL I
 - Lesson Video:
   - [Mongo I](https://vimeo.com/140831164) - 1 hour 41 minutes
 - Before class:
-  - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
+  - SQL Bolt Tutorials 1-5, 13, 16-17(https://sqlbolt.com/))
 - Mini Project:
-  - [Birds](https://github.com/jacob-israel-turner/mini-birds)
+  - [Simple Mini](https://github.com/DevMountain/simple-sql-queries)
 - Learning Objectives
-   - Understand the DB's place in the web app landscape (MongoDB vs DBaaS like Firebase)
-   - Understand DBs, Collections, and Documents
-   - Understand CRUD operations with MongoDB
+   - Understand how to write SQL queries to select records from a single table
+   - Understand how to write SQL queries to create a table
+   - Understand how to write SQL queries to create records for a single table
+- Note:
+  - You will want to get started on Day 2 when you finish this one.
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 4](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
-- Additional Reading:
+  - [Simple Queries](https://github.com/DevMountain/simple-sql-queries-afternoon)
 
-#### <a name="day112"></a> Day 2 - MongoDB II
+#### <a name="day112"></a> Day 2 - SQL II
 - Lesson Video:
   - [Mongo II](https://vimeo.com/146151652) - 1 hour 20 minutes
+- Before class:
+  - SQL Bolt Tutorials 6-12, 14-15, 18(https://sqlbolt.com/))
 - Mini Project:
-  - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
+  - [Intermediate Mini](https://github.com/DevMountain/intermediate-sql-queries)
 - Learning Objectives
-  - understand what object modeling is and why it’s used
-  - understand the difference between Mongoose and MongoJS
+  - Understand how to write SQL queries to select records from multiple tables
+  - Understand how to write SQL queries to edit records
+  - Understand how to write SQL queries to delete records
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 5](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
-- Additional Reading:
+  - [Intermediate Queries](https://github.com/DevMountain/intermediate-sql-queries-afternoon) 
 
-#### <a name="day113"></a> Day 3 -  MongoDB III
+#### <a name="day113"></a> Day 3 -  Postgress I
 - Lesson Video:
   - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
+- Before class:
+  - Install [PostgresSQL](https://www.postgresql.org/)
+  - Install [pgAdmin](https://www.pgadmin.org/) 
+  - Video Tutorial for installation [Here](https://www.youtube.com/watch?v=ghTksCsFBcI&ab_channel=ProgrammingKnowledge)
+  - [Setting up a Postgres DB](https://www.youtube.com/watch?v=1wvDVBjNDys&ab_channel=EnterpriseDB)
+  - [MassiveJS Docs](https://massive-js.readthedocs.io/en/latest/)
  - Mini Project:
-  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/PART-II-README.md)
+  - [Mini Massive](https://github.com/DevMountain/mini-sql-node-massive)
  - Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 6](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [Massive Project](https://github.com/DevMountain/sql-massive-node)
  - Additional Reading:
 
 ## <a name="week12"></a> Week 12
