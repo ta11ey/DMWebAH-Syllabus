@@ -695,7 +695,7 @@
 ## <a name="week12"></a> Week 12
 #### <a name="day121"></a> Day 1 - NodeJS IV & Ecommerce Project
  - Lesson Video:
-   - [NodeJS Auth - Passport](https://vimeo.com/groups/devmtnaf/videos/158525109) - 1 hour 13 minutes
+   - [NodeJS Auth - Passport](https://vimeo.com/170991611) - 1 hour 33 minutes
 - Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
