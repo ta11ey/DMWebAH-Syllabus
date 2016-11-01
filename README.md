@@ -703,42 +703,42 @@
   - Student can use express sessions to restrict access to resources
   - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 - Additional Reading:
 
 #### <a name="day122"></a> Day 2 -  Ecommerce Project Day II
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day123"></a> Day 3 -  Ecommerce Project Day III & Code Reviews
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 ## <a name="week13"></a> Week 13
 #### <a name="day131"></a> Day 1 -  Ecommerce Project Day IV
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
   
 #### <a name="day133"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 ## <a name="week14"></a> Week 14
 #### <a name="day141"></a> Day 1 -  Ecommerce Project Day VII
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day142"></a> Day 2 -  Ecommerce Project Day VIII
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day143"></a> Day 3 -  Ecommerce Project Day IX & Code Reviews
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 ## <a name="week15"></a> Week 15
 #### <a name="day151"></a> Day 1 - React I
