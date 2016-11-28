@@ -743,10 +743,13 @@
 ## <a name="week15"></a> Week 15
 #### <a name="day151"></a> Day 1 - React I
 - Pre-Reading:
+  - [Webpack Tutorial](https://webpack.github.io/docs/tutorials/getting-started/)
+  - [The React Way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+  - [Bonus: Survive JS](http://survivejs.com/react/getting-started/introduction-to-react/)
 - Lesson Video:
   No video for this lesson.
 - Learning Objectives
-  - Understand how React compares to other Front End frameworks like Angular and Ember
+  - Understand how React compares to other Front End frameworks like Angular
   - Understand how to use Webpack to set up a build process for your React App
   - Understand how to build a component which modifies and maintains it’s own state
   - Understand how to pass data into child components as props
@@ -759,13 +762,18 @@ CSS in React
 
 #### <a name="day152"></a> Day 2 - React I Workday
 - Pre-Reading:
+  - [Webpack Tutorial](https://webpack.github.io/docs/tutorials/getting-started/)
+  - [The React Way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+  - [Bonus: Survive JS](http://survivejs.com/react/getting-started/introduction-to-react/)
 - Lesson Video:
   No Video for Today
 - Learning Objectives
-  - Understand the Life Cycle of a Components
-  - Understand how to use propTypes and getDefaultProps
-  - Understand what Mixins are and how they’re useful
-  - How to use React w/ jQuery and specifically to make Ajax requests
+  - Understand how React compares to other Front End frameworks like Angular
+  - Understand how to use Webpack to set up a build process for your React App
+  - Understand how to build a component which modifies and maintains it’s own state
+  - Understand how to pass data into child components as props
+  - Understand how to use CSS with React as well as “inline” styles
+  - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
   - [React Friends](https://github.com/DevMountain/react-friends)
 - Additional Reading:
