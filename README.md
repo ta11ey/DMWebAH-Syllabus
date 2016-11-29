@@ -757,7 +757,7 @@
 CSS in React
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [React Friends](https://github.com/DevMountain/react-friends)
+  - [React Friends](https://github.com/DevMountain/react-friends-ah)
 - Additional Reading:
 
 #### <a name="day152"></a> Day 2 - React I Workday
@@ -775,7 +775,7 @@ CSS in React
   - Understand how to use CSS with React as well as “inline” styles
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [React Friends](https://github.com/DevMountain/react-friends)
+  - [React Friends](https://github.com/DevMountain/react-friends-ah)
 - Additional Reading:
 
 #### <a name="day153"></a> Day 3 - React II
