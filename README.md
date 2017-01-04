@@ -86,23 +86,7 @@
 
 ## <a name="week1"></a> Week 1
 #### <a name="day11"></a>Day 1 - Github & Version Control
-- Pre-Reading:
-  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-  - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
-- Lesson Video:
-  - [Github](https://www.youtube.com/playlist?list=PLFq09yYVYpcK2409Owt4nyRleoRO-OdSx) 1 Hour 11 Minutes
-- Learning Objectives
-    - Students will understand and be able to use the command line for
-      - creating a folder
-      - creating a file
-      - editing a file
-      - changing directories
-    - Students will understand what Git and Github are and how they fit into the web app landscape
-    - Students will be able to clone a repo and know its purpose
-    - Students will be able to add, commit, and push files to github
-    - Students will understand basic branching
-    - Students will understand how to use github in a group setting
+- yad ayaduse github in a group setting
       - Students be able to understand what a "Fork" is and be able to Fork a repo
       - Students will be able to handle merge conflicts
       - Students will be able to minimally manage vim to escape merge conflict messages
@@ -671,14 +655,14 @@
   - Understand how to write SQL queries to edit records
   - Understand how to write SQL queries to delete records
 - Project:
-  - [Intermediate Queries](https://github.com/DevMountain/intermediate-sql-queries-afternoon) 
+  - [Intermediate Queries](https://github.com/DevMountain/intermediate-sql-queries-afternoon)
 
 #### <a name="day113"></a> Day 3 -  Postgres I
 - Lesson Video:
   - [SQL III](https://vimeo.com/album/4144340/video/188030567)
 - Before class:
   - Install [PostgresSQL](https://www.postgresql.org/)
-  - Install [pgAdmin](https://www.pgadmin.org/) 
+  - Install [pgAdmin](https://www.pgadmin.org/)
   - Video Tutorial for installation [Here](https://www.youtube.com/watch?v=ghTksCsFBcI&ab_channel=ProgrammingKnowledge)
   - [Setting up a Postgres DB](https://www.youtube.com/watch?v=1wvDVBjNDys&ab_channel=EnterpriseDB)
   - [MassiveJS Docs](https://massive-js.readthedocs.io/en/latest/)
@@ -722,7 +706,7 @@
 #### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
 - Project:
   - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
-  
+
 #### <a name="day133"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
 - Project:
   - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
